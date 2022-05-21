@@ -29,16 +29,13 @@ project. Especially the Magnetic Flux generator and hall effect sensor which are
 components for our project is easily available here along with buzzer.
 
 
-## 2.2 DESCRIPTION OF SOFTWARE: NI Multisim (formerly MultiSIM) is an
-
-electronic schematic capture and simulation program which is part of a suite of circuit design
+## 2.2 DESCRIPTION OF SOFTWARE: 
+NI Multisim (formerly MultiSIM) is an electronic schematic capture and simulation program which is part of a suite of circuit design
 programs, along with NI Ultiboard. Multisim is one of the few circuit design programs to employ
 the original Berkeley SPICE based software simulation. Multisim was originally created by a
 company named Electronics Workbench Group, which is now a division of National
 Instruments. Multisim includes microcontroller simulation (formerly known as MultiMCU), as
-well as integrated import and export features to the printed circuit board layout software in the
-
-## suite, NI Ultiboard.
+well as integrated import and export features to the printed circuit board layout software in the suite, NI Ultiboard.
 
 # 3. IMPLEMENTATION:
 
