@@ -120,7 +120,7 @@ effect sensor senses this flux and according to which we obtain our results.
 
 ## 3.2 DESIGNED CIRCUIT IN MULTISIM:
 
-| ![](Images/Page.png) | 
+| ![](Images/page.png) | 
 |:--:| 
 | **Figure 3.2:** *Circuit Diagram* |
 
@@ -132,6 +132,11 @@ sensor OHN3030U to Magnet attached with door when the door is closed.
 ```
 Figure 3.3: hardware implementation circuit
 ```
+
+| ![](Images/door.png) | 
+|:--:| 
+| **Figure 3.3:** * Hardware implementation of the circuit* |
+
 ## 3. 4 PROCEDURE:
 
 First, we have to rig up the circuit as shown in Figure 3.2. According to which the terminal 3 of
