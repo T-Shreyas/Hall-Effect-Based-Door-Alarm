@@ -50,9 +50,11 @@ around the device. When the magnetic flux density around the sensor exceeds a ce
 threshold, the sensor detects it and generates an output voltage called the Hall Voltage, VH.
 Consider the figure 3.1.1 below.
 
-```
-Figure3.1.1: hall effect-basic working principal
-```
+
+| ![](Images/work.png) | 
+|:--:| 
+| **Figure3.1.1:** *Hall Effect - basic working principal* |
+
 The model which we are using in this project for simulation is OHN3030U Hall effect sensor
 where U represents unipolarity condition. A single magnet presenting a south polarity (positive)
 magnetic field of sufficient strength (magnetic flux density) will cause the device to switch to its
