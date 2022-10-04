@@ -129,13 +129,9 @@ effect sensor senses this flux and according to which we obtain our results.
 Place the Alarm circuit connected to the AC power supply and make sure the expose hall effect
 sensor OHN3030U to Magnet attached with door when the door is closed.
 
-```
-Figure 3.3: hardware implementation circuit
-```
-
-| ![](Images/door.png) | 
+| ![](Images/Door.png) | 
 |:--:| 
-| **Figure 3.3:** * Hardware implementation of the circuit* |
+| **Figure 3.3:** *Hardware implementation of the circuit* |
 
 ## 3. 4 PROCEDURE:
 
