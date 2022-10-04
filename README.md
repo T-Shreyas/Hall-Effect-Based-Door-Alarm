@@ -121,8 +121,11 @@ effect sensor senses this flux and according to which we obtain our results.
 ## 3.2 DESIGNED CIRCUIT IN MULTISIM:
 
 ```
-Figure 3.2: CIRCUIT DIAGRAM
+CIRCUIT DIAGRAM
 ```
+| ![](Images/Page.JPG) | 
+|:--:| 
+| **Figure 3.2:** *Circuit Diagram* |
 
 ## 3. 3 IMPLIMENTATION CONCEPT:
 
