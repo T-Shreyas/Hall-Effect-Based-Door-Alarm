@@ -47,7 +47,7 @@ Hall Effect Sensors are devices which are activated by an external magnetic fiel
 know that a magnetic field has two important characteristics flux density and polarity (North and
 South Poles). The output signal from a Hall effect sensor is the function of magnetic field density
 around the device. When the magnetic flux density around the sensor exceeds a certain pre-set
-threshold, the sensor detects it and generates an output voltage called the Hall Voltage, VH.
+threshold, the sensor detects it and generates an output voltage called the Hall Voltage.
 Consider the figure 3.1.1 below.
 
 
